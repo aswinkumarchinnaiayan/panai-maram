@@ -13,7 +13,7 @@ import {
   ArrowRight,
   TreePalm,
 } from "lucide-react";
-
+const API_URL = import.meta.env.VITE_API_URL;
 const Login = () => {
 
   const navigate =
@@ -40,16 +40,13 @@ const Login = () => {
 
       setLoading(true);
 
-      const { data } =
-        await axios.post(
-
-          "http://localhost:5000/api/auth/login",
-
-          {
-            email,
-            password,
-          }
-        );
+      const { data } = await axios.post(
+        `${API_URL}/api/auth/login`,
+        {
+          email,
+          password,
+        }
+      );
 
       // STORE USER
       localStorage.setItem(

@@ -100,7 +100,7 @@ const Payment = () => {
           // SAVE ORDER
           await axios.post(
 
-            "http://localhost:5000/api/orders",
+            `${API_URL}/api/orders`,
 
             {
 
@@ -139,7 +139,7 @@ const Payment = () => {
           const { data } =
             await axios.post(
 
-              "http://localhost:5000/api/payment/create-order",
+              "http://panai-maram.onrender.com/api/payment/create-order",
 
               {
                 amount:
@@ -173,7 +173,7 @@ const Payment = () => {
               try {
 
                 await axios.post(
-                  "http://localhost:5000/api/orders",
+                  "https://panai-maram.onrender.com/api/orders",
                   {
                     user: userInfo._id,
                     orderItems: cartItems,

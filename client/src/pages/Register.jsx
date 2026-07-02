@@ -18,7 +18,7 @@ import {
   TreePalm,
 } from "lucide-react";
 
-
+const API_URL = import.meta.env.VITE_API_URL;
 const Register = () => {
 
   const navigate =
@@ -72,7 +72,7 @@ const Register = () => {
       const { data } =
         await axios.post(
 
-          "http://localhost:5000/api/auth/register",
+          `${API_URL}/api/auth/register`,
 
           {
             name,

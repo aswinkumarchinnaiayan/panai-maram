@@ -19,7 +19,7 @@ import {
   User,
   Package,
 } from "lucide-react";
-
+const API_URL = import.meta.env.VITE_API_URL;
 const ViewOrders = () => {
 
   // STATE
@@ -50,7 +50,7 @@ const ViewOrders = () => {
           const { data } =
             await axios.get(
 
-              `http://localhost:5000/api/orders/${userInfo._id}`
+               `${API_URL}/api/orders/${userInfo._id}`
             );
 
           setOrders(data);

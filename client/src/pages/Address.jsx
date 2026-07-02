@@ -15,7 +15,7 @@ import {
   ArrowRight,
 } from "lucide-react";
 
-
+const API_URL = import.meta.env.VITE_API_URL;
 const Address = () => {
 
   const navigate =
@@ -76,7 +76,7 @@ const Address = () => {
         const { data } =
           await axios.post(
 
-            "http://localhost:5000/api/address",
+            `${API_URL}/api/address`,
 
             {
 
