@@ -18,7 +18,7 @@ import {
 
 import toast from "react-hot-toast";
 
-
+const API_URL = import.meta.env.VITE_API_URL;
 const Payment = () => {
 
   const navigate =
@@ -139,7 +139,7 @@ const Payment = () => {
           const { data } =
             await axios.post(
 
-              "http://panai-maram.onrender.com/api/payment/create-order",
+               `${API_URL}/api/payment/create-order`,
 
               {
                 amount:
