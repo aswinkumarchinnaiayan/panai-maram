@@ -715,7 +715,7 @@ const ViewOrders = () => {
                                   "
                                 >
 
-                                  ₹{item.price}
+                                  {item.price}
 
                                 </p>
                               </div>
