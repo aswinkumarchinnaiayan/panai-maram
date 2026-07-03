@@ -47,110 +47,22 @@ The platform empowers traditional artisans by expanding their market reach, prom
 
 ---
 
-# 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
-The **Panai Maram** platform has been designed with scalability in mind. The following features are planned for future releases to enhance functionality, user experience, and business growth.
+- 🤖 AI-Based Product Recommendations
+- ❤️ Wishlist & Product Reviews
+- 📦 Real-Time Order Tracking
+- 🔔 Email & SMS Notifications
+- 🌐 Multi-Language Support
+- 📱 Progressive Web App (PWA)
+- 🎁 Loyalty & Rewards Program
+- 👨‍🌾 Multi-Vendor Marketplace
+- 📊 Admin Analytics Dashboard
+- 🔒 Two-Factor Authentication (2FA)
+- ☁️ Cloud Deployment & CI/CD
+- 🌍 International Shipping & Multi-Currency Support
 
-### 🛍️ E-Commerce Enhancements
-- Product Wishlist
-- Product Reviews & Ratings
-- Product Comparison
-- Advanced Product Filtering
-- Recently Viewed Products
-- Personalized Product Recommendations
-- AI-powered Product Search
-
-### 🤖 Artificial Intelligence
-- AI Chatbot for Customer Support
-- AI-based Product Recommendation System
-- Smart Search with Natural Language Processing (NLP)
-- Sales Prediction using Machine Learning
-- Customer Behavior Analysis
-- Demand Forecasting
-
-### 📦 Order & Delivery
-- Real-Time Order Tracking
-- Delivery Partner Integration
-- Estimated Delivery Date
-- Order Cancellation & Return Management
-- Refund Processing
-- SMS & Email Order Notifications
-
-### 💳 Payment Features
-- Multiple Payment Gateways
-- Apple Pay & Google Pay
-- EMI & Buy Now Pay Later (BNPL)
-- Subscription-based Product Orders
-- Digital Wallet Integration
-
-### 👤 User Features
-- User Profile Management
-- Address Book
-- Order History Analytics
-- Loyalty & Reward Points
-- Referral Program
-- Membership Plans
-
-### 📱 Mobile Experience
-- Progressive Web App (PWA)
-- Native Android Application
-- Native iOS Application
-- Offline Browsing Support
-- Push Notifications
-
-### 🌍 Marketplace Expansion
-- Multi-Vendor Support
-- Artisan Registration Portal
-- Vendor Dashboard
-- Inventory Management
-- Commission Management
-
-### 🌐 Internationalization
-- Multi-Language Support (Tamil, English, Hindi)
-- Multi-Currency Support
-- International Shipping
-- Region-based Product Availability
-
-### 📊 Analytics & Dashboard
-- Admin Analytics Dashboard
-- Sales Reports
-- Customer Insights
-- Product Performance Analytics
-- Inventory Reports
-- Revenue Dashboard
-
-### 🔒 Security Improvements
-- Two-Factor Authentication (2FA)
-- Role-Based Access Control (RBAC)
-- OAuth Login (Google, GitHub)
-- Secure Payment Verification
-- Activity Logs
-- Data Backup & Recovery
-
-### ☁️ Cloud & DevOps
-- Docker Containerization
-- Kubernetes Deployment
-- CI/CD Pipeline
-- AWS / Azure / GCP Deployment
-- CDN Integration
-- Performance Optimization
-- Automated Monitoring & Logging
-
-### 🌿 Sustainability Features
-- Carbon Footprint Tracking
-- Eco-Friendly Product Certification
-- Farmer & Artisan Stories
-- Community Marketplace
-- Digital Heritage Archive
-
-### 🎯 Long-Term Vision
-- AI-Powered Heritage Marketplace
-- Blockchain-Based Product Authenticity
-- AR/VR Product Visualization
-- Voice-Based Shopping Assistant
-- Smart Inventory Prediction
-- International Palmyra Marketplace
-- Enterprise-Level Scalable Architecture
+---
 
 # 🌱 Vision
 
