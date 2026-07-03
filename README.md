@@ -71,36 +71,6 @@ The platform empowers traditional artisans by expanding their market reach, prom
 
 ---
 
-# 🛠 Technology Stack
-
-## Frontend
-
-- React.js
-- React Router DOM
-- Tailwind CSS
-- Axios
-- Framer Motion
-- Lucide React
-- React Hot Toast
-
-## Backend
-
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JWT Authentication
-- bcrypt
-- Razorpay API
-
-## Deployment
-
-- Vercel (Frontend)
-- MongoDB Atlas
-- GitHub
-
----
-
 # 📌 Project Highlights
 
 - 🌴 Traditional Tamil Heritage Marketplace
@@ -124,15 +94,3 @@ The platform empowers traditional artisans by expanding their market reach, prom
 Panai Maram aims to digitally preserve Tamil heritage by promoting authentic Palmyra products, supporting local artisans, and encouraging sustainable living through modern technology.
 
 ---
-
-# 👨‍💻 Developer
-
-**Aswin**
-
-**MCA Student | Full Stack MERN Developer | Software Engineering Enthusiast**
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a **⭐ Star** on GitHub.
