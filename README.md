@@ -27,49 +27,6 @@ The platform empowers traditional artisans by expanding their market reach, prom
 
 **https://panai-maram-eight.vercel.app**
 
----
-
-# ✨ Features
-
-### 🛍️ Shopping Experience
-- Browse Traditional Palmyra Products
-- Product Categories
-- Product Details
-- Product Search
-- Responsive Product Cards
-
-### 🛒 Cart Management
-- Add to Cart
-- Update Quantity
-- Remove Products
-- Dynamic Price Calculation
-- Persistent Cart using Local Storage
-
-### 👤 User Management
-- User Registration
-- User Login
-- JWT Authentication
-- Secure Password Encryption (bcrypt)
-
-### 💳 Secure Checkout
-- Shipping Address Management
-- Cash on Delivery (COD)
-- Razorpay Payment Gateway
-- Order Confirmation
-
-### 📦 Order Management
-- Place Orders
-- View Order History
-- Download PDF Invoice
-- Order Summary
-
-### 🎨 User Interface
-- Modern Responsive Design
-- Tailwind CSS
-- Framer Motion Animations
-- Professional User Experience
-
----
 
 # 📌 Project Highlights
 
